@@ -1,0 +1,6 @@
+**/obj/*
+**/bin/*
+**/.vscode/*
+npm-debug.log
+**/Uploads/*
+**/.vs/*
